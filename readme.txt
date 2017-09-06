@@ -3,4 +3,5 @@ Git is free software.
 zhengyuting is so cute～
 dsaasdiguapi!
 
-Git tracks changes.
+Git tracks changes
+git tracks behind add!
