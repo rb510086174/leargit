@@ -7,3 +7,4 @@ Git tracks changes
 git tracks behind add
 
 creating a new branch is quick!
+master do
