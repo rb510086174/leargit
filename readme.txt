@@ -4,4 +4,6 @@ zhengyuting is so cute～
 dsaasdiguapi!
 
 Git tracks changes
-git tracks behind add!
+git tracks behind add
+
+creating a new branch is quick!
